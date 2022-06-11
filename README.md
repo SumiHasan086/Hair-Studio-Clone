@@ -1,4 +1,4 @@
-# Template-Design-4
+# Hair Studio Clone
 ##https://sumihasan086.github.io/Template-Design-4/
 
 Template Design with HTML &amp; CSS
